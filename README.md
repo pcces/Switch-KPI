@@ -4,6 +4,19 @@ Switch KPI is a live production analytics dashboard for Blackmagic Design ATEM
 switchers. It watches M/E 1 and M/E 2, records how sources and transitions are
 used, and turns a show into a live dashboard and post-show report.
 
+## Download Switch KPI
+
+### [Download for macOS — Apple Silicon DMG](https://github.com/pcces/Switch-KPI/releases/download/v0.1.2/Switch.KPI-0.1.2-arm64.dmg)
+
+### [Download for Windows — x64 ZIP](https://github.com/pcces/Switch-KPI/releases/download/v0.1.2/Switch.KPI-0.1.2-win.zip)
+
+Current release: **Switch KPI 0.1.2**
+
+[View the release notes and all available downloads](https://github.com/pcces/Switch-KPI/releases/latest)
+
+> **macOS note:** The current app is unsigned. macOS may ask you to approve it
+> in Privacy & Security the first time it is opened.
+
 ## What it tracks
 
 - Program source airtime and usage counts
